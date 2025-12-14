@@ -31,7 +31,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Ajay started his accountancy career in 2018. He holds a Post Graduate degree in Commerce and Started his Career as an ACCA Student in 2023. He has over 7 years experience in the field of Accounting and Taxations which includes working with various clients and specialized in managing work with the processing team.",
         expertise: ["Accounting", "Bookkeeping", "VAT Compliances", "Account Finalising"],
         education: "B.COM, MCOM, ACCA Student",
-        email: "ajay@finaccoutsourcings.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023",
         isMain: true
     },
@@ -44,7 +44,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Deepak started his accountancy career in 2014. He holds a Post Graduate degree in Commerce and Started his Career as a CA Aspirant in 2022. He has over 10 years experience in the field of Accounting and Taxations which includes working with various clients and specialized in managing work with the processing team.",
         expertise: ["Accounts Finalisation", "Tax Compliances", "Team Management"],
         education: "B.COM, MCOM, CA Student",
-        email: "deepak@finaccoutsourcings.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023",
         isMain: true
     },
@@ -57,7 +57,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Himanshu is our Marketing head who is involved in all our marketing activities at FinAcc. He is an expert in managing administrative strategies and driving brand growth.",
         expertise: ["Marketing Strategy", "Administrative Management", "Brand Development"],
         education: "B.COM, MBA Marketing (Pursuing)",
-        email: "himanshu@finaccoutsourcings.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023",
         isMain: true
     },
@@ -70,7 +70,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Rahul is our HR head who manages all our team and other activities at FinAcc. He has the ability to manage a team of 15-20 members to minimize the workload and ensure operational efficiency.",
         expertise: ["Human Resources", "Team Management", "Operations"],
         education: "B.COM, MBA Finance (Pursuing)",
-        email: "rahul@finaccoutsourcings.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023",
         isMain: true
     },
@@ -83,7 +83,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Sukhpal started his career as Company Secretary in 2021. He holds a Post Graduate degree in Commerce. Previously he has worked as a trainee Company Secretary for 5 years with a reputed Company and has knowledge of various Tax Compliances and companies financial Knowledge. Currently he is handling the Legal Compliances of Bank. Sukhpal Mathur is handling all the Legal Activities of FinAcc.",
         expertise: ["Legal Compliances", "Corporate Law", "financial Regulations"],
         education: "B.COM, MCOM, CS (ICSI)",
-        email: "sukhpal@finaccoutsourcings.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023"
     },
     {
@@ -95,7 +95,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Ajeet started his career in the field of Finance in the year 2018. He has completed his MBA from IIM Pune also he holds a Post Graduate degree in Commerce. After completing his MBA he worked with companies like Tata Finance, Art Finance and currently he is working as a Financial advisor in ICICI Bank. Ajeet Kumar is advisor in all the Financial decisions and handling all the critical financial activities of FinAcc. He also holds many achievement awards in his ongoing career as Financial Advisor.",
         expertise: ["Financial Strategy", "Investment Advisory", "Corporate Finance"],
         education: "B.COM, M.COM, MBA from IIM Pune",
-        email: "ajeet@finaccoutsourcings.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023"
     },
     {
@@ -107,7 +107,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Dipender is responsible for maintaining client servers and ensuring the safety and security of data/information received from clients through various exchange methods, including emails and cloud storage.",
         expertise: ["Server Maintenance", "Data Security", "Cloud Infrastructure", "Network Administration"],
         education: "B.com, MCA, MCSA, CCNA",
-        email: "it@finaccoutsourcings.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023"
     },
     {
@@ -119,7 +119,7 @@ export const teamMembers: TeamMember[] = [
         bio: "Aditya is our Software Developer specializing in full-stack web development and cloud infrastructure. He manages the technical systems that support FinAcc's operations, ensuring reliability and security across our digital platforms.",
         expertise: ["Web Development", "Cloud Infrastructure", "DevOps", "System Design"],
         education: "B.Tech in Computer Science",
-        email: "adityaverma4769@gmail.com",
+        email: "info@finaccoutsourcings.com",
         phone: "+91 7011701023"
     }
 ];
