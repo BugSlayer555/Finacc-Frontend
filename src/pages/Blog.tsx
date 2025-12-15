@@ -58,7 +58,7 @@ const Blog = () => {
               Insights & Resources
             </h1>
             <p className="text-xl text-muted-foreground font-light leading-relaxed">
-              Stay ahead of the curve with our expert insights on the accounting landscape. We explore the strategic benefits of outsourcing, share tips on improving practice efficiency, and analyze the latest industry trends—providing you with the knowledge resources you need to lead your firm into the future.
+              Stay ahead of the curve with our expert insights on the accounting landscape. We explore the strategic benefits of outsourcing, share tips on improving practice efficiency, and analyze the latest industry trends-providing you with the knowledge resources you need to lead your firm into the future.
             </p>
           </AnimatedSection>
         </div>

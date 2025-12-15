@@ -26,7 +26,7 @@ export function IntroSection() {
                 Our integrated approach means we don’t just offer services; we embed ourselves in your operations, working as an extension of your team. With specialists across Business Consulting, Finance, Tax, Accounting, and Bookkeeping, we dig into the numbers to uncover insights, identify opportunities, and tackle challenges head‑on. Our goal is simple: give you clarity, confidence, and actionable advice tailored to your unique goals.
               </p>
               <p>
-                FinAcc OutSourcings began in 2019 as a two‑person venture built on a shared vision of delivering top‑tier financial services. Starting with freelance work for UK accounting firms, we’ve grown steadily—and in 2023, we officially registered as an LLP. Today, we’re a trusted partner for businesses seeking more than transactional support: we’re your partners in growth.
+                FinAcc OutSourcings began in 2019 as a two‑person venture built on a shared vision of delivering top‑tier financial services. Starting with freelance work for UK accounting firms, we’ve grown steadily-and in 2023, we officially registered as an LLP. Today, we’re a trusted partner for businesses seeking more than transactional support: we’re your partners in growth.
               </p>
             </div>
           </AnimatedSection>

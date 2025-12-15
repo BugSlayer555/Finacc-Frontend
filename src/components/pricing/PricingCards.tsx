@@ -14,7 +14,7 @@ const pricingModels = [
     {
         title: "Hourly",
         subtitle: "Pay-as-you-go flexibility",
-        description: "Choose any service and pay only for the hours worked — billed at a transparent hourly rate. Perfect for firms that need occasional support or one-off tasks completed quickly and efficiently.",
+        description: "Choose any service and pay only for the hours worked - billed at a transparent hourly rate. Perfect for firms that need occasional support or one-off tasks completed quickly and efficiently.",
         icon: Clock,
         features: ["Zero commitment", "Pay only for what you use", "Ideal for ad-hoc tasks"],
         cta: "Start Hourly",
@@ -22,7 +22,7 @@ const pricingModels = [
     {
         title: "Fixed Budget",
         subtitle: "Scope it. Quote it. Done.",
-        description: "For each job, we estimate the number of hours required and quote accordingly — no surprises. Ideal for recurring tasks like payroll, bookkeeping, or year-end accounts.",
+        description: "For each job, we estimate the number of hours required and quote accordingly - no surprises. Ideal for recurring tasks like payroll, bookkeeping, or year-end accounts.",
         icon: Receipt,
         features: ["Guaranteed price", "No hidden costs", "Best for recurring work"],
         cta: "Get a Quote",
@@ -31,7 +31,7 @@ const pricingModels = [
     {
         title: "Full Time",
         subtitle: "Your offshore team, fully aligned",
-        description: "We assign a full-time dedicated accountant who works exclusively for your firm — on a fixed monthly salary. They follow your SOPs, use your tools, and operate like an in-house hire, without the overhead.",
+        description: "We assign a full-time dedicated accountant who works exclusively for your firm - on a fixed monthly salary. They follow your SOPs, use your tools, and operate like an in-house hire, without the overhead.",
         icon: UserList,
         features: ["Dedicated resource", "Full alignment with SOPs", "Scalable remote team"],
         cta: "Hire Dedicated",

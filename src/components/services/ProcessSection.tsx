@@ -76,7 +76,7 @@ export function ProcessSection() {
                         Our Process
                     </h2>
                     <p className="text-xl text-muted-foreground font-light leading-relaxed">
-                        Quality work with Systematic approach. With a systematic and step-by-step process—you can get the most out of outsourcing your work to us.
+                        Quality work with Systematic approach. With a systematic and step-by-step process-you can get the most out of outsourcing your work to us.
                     </p>
                 </AnimatedSection>
 

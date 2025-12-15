@@ -96,7 +96,7 @@ const Services = () => {
               Comprehensive Accounting Solutions
             </h1>
             <p className="text-xl text-muted-foreground font-light leading-relaxed">
-              End-to-end outsourcing services tailored specifically for UK accounting practices. From year-end accounts and bookkeeping to corporate tax and VAT, our expert team functions as an extension of your firm—helping you reduce operational costs by 40-50% while scaling your capacity and maintaining exceptional quality standards.
+              End-to-end outsourcing services tailored specifically for UK accounting practices. From year-end accounts and bookkeeping to corporate tax and VAT, our expert team functions as an extension of your firm-helping you reduce operational costs by 40-50% while scaling your capacity and maintaining exceptional quality standards.
             </p>
           </AnimatedSection>
         </div>
